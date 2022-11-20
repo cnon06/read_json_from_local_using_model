@@ -1,0 +1,79 @@
+
+[
+    
+    {
+        "car_name": "mercedes",
+        "country": "germany",
+        "foundation_year": 1920,
+        "model": 
+        [
+            {
+                "model_name" :"a_series",
+                "price": 15000,
+                "isAutomatic": true
+            },
+            {
+                "model_name" :"b_series",
+                "price": 25000,
+                "isAutomatic": false
+            },
+            {
+                "model_name" :"c_series",
+                "price": 35000,
+                "isAutomatic": true
+            }
+
+        ]
+    }
+    ,
+    {
+        "car_name": "honda",
+        "country": "japan",
+        "foundation_year": 1940,
+        "model": 
+        [
+            {
+                "model_name" :"jazz",
+                "price": 15000,
+                "isAutomatic": true
+            },
+            {
+                "model_name" :"civic",
+                "price": 25000,
+                "isAutomatic": false
+            },
+            {
+                "model_name" :"cr-v",
+                "price": 35000,
+                "isAutomatic": true
+            },
+            {
+                "model_name" :"accord",
+                "price": 45000,
+                "isAutomatic": true
+            }
+
+        ]
+    }
+    ,
+    {
+        "car_name": "renault",
+        "country": "france",
+        "foundation_year": 1920,
+        "model": 
+        [
+            {
+                "model_name" :"clio",
+                "price": 15000,
+                "isAutomatic": true
+            },
+            {
+                "model_name" :"megane",
+                "price": 25000,
+                "isAutomatic": false
+            }
+            
+
+        ]
+    }
+]
